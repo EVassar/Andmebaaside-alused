@@ -1,0 +1,2 @@
+# Andmebaaside-alused
+Andmebaaside alused.
